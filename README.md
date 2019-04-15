@@ -1,3 +1,3 @@
 vht2a-cef
 Deze les gaat over GIT!
-Deze les is ......
+Deze les is awesome!
